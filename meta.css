@@ -1,0 +1,28 @@
+body{
+    background-color: lightgreen;
+}
+#photo{
+    border: 5px blue solid;
+    
+}
+h1{
+    color: blue;
+    background-color: lightyellow;
+    text-align: center;
+    padding: 5px;
+}
+h2{
+    color: grey;
+}
+div{
+    margin: 4
+}
+a{
+    padding-bottom: 20px;
+}
+ul{
+    color: red;
+}
+ol{
+    color: blue;
+}
