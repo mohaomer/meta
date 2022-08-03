@@ -1,5 +1,5 @@
 body{
-    background-color: lightgreen;
+    background-color: gray;
 }
 #photo{
     border: 5px blue solid;
@@ -7,12 +7,12 @@ body{
 }
 h1{
     color: blue;
-    background-color: lightyellow;
+    background-color: rgb(222, 147, 100);
     text-align: center;
     padding: 5px;
 }
 h2{
-    color: grey;
+    color: greenyellow;
 }
 div{
     margin: 4
@@ -21,8 +21,8 @@ a{
     padding-bottom: 20px;
 }
 ul{
-    color: red;
+    color: rgb(111, 0, 128);
 }
 ol{
-    color: blue;
+    color: rgb(30, 11, 11);
 }
